@@ -84,12 +84,12 @@ invoice-data-extraction/
 ├── config.py              # Configuration settings (API keys, input/output paths, etc.)
 └── sample_invoices/       # Sample PDF invoices (optional)
 ```
--**extract_invoices.py**: The main script for running the extraction. It handles both text-based and image-based PDFs, performs extraction, validation, and outputs a CSV report.
--**validator.py**: Contains the validation logic to check the extracted fields against predefined patterns (e.g., regex for dates, numeric checks for amounts).
--**ocr_handler.py**: Handles OCR processing for scanned/image-based PDFs using the Gemini API.
--**config.py**: Allows you to configure input/output paths, API keys, and other settings.
--**requirements.txt**: Lists all dependencies required to run the project.
--**sample_invoices/**: Optional folder containing sample PDF files for testing.
+- **extract_invoices.py**: The main script for running the extraction. It handles both text-based and image-based PDFs, performs extraction, validation, and outputs a CSV report.
+- **validator.py**: Contains the validation logic to check the extracted fields against predefined patterns (e.g., regex for dates, numeric checks for amounts).
+- **ocr_handler.py**: Handles OCR processing for scanned/image-based PDFs using the Gemini API.
+- **config.py**: Allows you to configure input/output paths, API keys, and other settings.
+- **requirements.txt**: Lists all dependencies required to run the project.
+
 
 ## Configuring the System
 If you'd like to configure paths or settings (e.g., API keys, input/output directories), you can modify the config.py file. Example configuration:
