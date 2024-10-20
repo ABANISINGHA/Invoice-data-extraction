@@ -1,0 +1,6 @@
+pandas
+numpy
+pdfplumber
+requests
+pdf2image
+Pillow
