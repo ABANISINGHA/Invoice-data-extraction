@@ -1,0 +1,25 @@
+file,invoice_number,invoice_date,customer_name,due_date,taxable_amount,cgst,sgst,total_amount,total_discount,amount_in_words,account_number,ifsc_code,trust_score
+INV-145_Indraja Mohite.pdf,INV-145,28 Mar 2024,Indraja Mohite,28 Mar 2024,"1,917.86",111.47,111.47,"2,141.00",520.20,"INR Two Thousand, One Hundred And Forty",1146860541,kkbk0000725,87.5
+INV-142_Urmila Jangam.pdf,INV-142,07 Mar 2024,Urmila Jangam,07 Mar 2024,874.58,78.71,78.71,"1,032.00",258.00,INR One Thousand And Thirty,1146860541,kkbk0000725,100.0
+INV-123_Asit.pdf,INV-123,08 Feb 2024,Asit,08 Feb 2024,990.46,53.92,53.92,"1,115.00",152.02,"INR One Thousand, One Hundred And Fifteen Rupees Only",1146860541,kkbk0000725,100.0
+INV-128_Atia Latif.pdf,INV-128,23 Feb 2024,Atia Latif,23 Feb 2024,"2,076.27",186.86,186.86,"2,450.00",550.00,"INR Two Thousand, Four Hundred And Fifty Rupees Only",1146860541,kkbk0000725,87.5
+INV-144_Atia Latif.pdf,INV-144,28 Mar 2024,Atia Latif,28 Mar 2024,"21,914.71",731.95,731.95,"24,047.00",933.16,INR Twenty,1146860541,kkbk0000725,87.5
+INV-143_Prashant.pdf,INV-143,28 Mar 2024,Prashant,28 Mar 2024,"6,563.98",133.50,133.50,"7,612.00",880.00,"INR Seven Thousand, Six Hundred And Twelve Rupees Only",1146860541,kkbk0000725,87.5
+INV-121_Jitesh Soni.pdf,INV-121,29 Jan 2024,Billing Address:,29 Jan 2024,870.93,,,"1,010.00",285.94,INR One Thousand And Ten Rupees Only,1146860541,kkbk0000725,75.0
+INV-138_Agrani Kandele.pdf,INV-138,06 Mar 2024,Shipping Address:,06 Mar 2024,"1,275.34",114.78,114.78,"1,505.00",308.10,"INR One Thousand, Five Hundred And Five Rupees Only",1146860541,kkbk0000725,87.5
+INV-147_Divya Suhane.pdf,INV-147,29 Mar 2024,Divya Suhane,29 Mar 2024,"3,746.82",12.23,12.23,"4,015.00",652.31,INR Four Thousand And Fifteen Rupees Only,1146860541,kkbk0000725,87.5
+INV-149_Karishma Bande.pdf,INV-149,22 Mar 2024,Karishma Bande,01 Apr 2024,370.64,33.36,33.36,437.00,59.64,INR Four Hundred And Thirty,1146860541,kkbk0000725,100.0
+INV-133_Sheetal Kapur.pdf,INV-133,01 Mar 2024,Sheetal Kapur,01 Mar 2024,"2,302.15",14.61,14.61,"2,702.00",471.03,"INR Two Thousand, Seven Hundred And Two Rupees Only",1146860541,kkbk0000725,87.5
+INV-124_Ankita Sattva.pdf,INV-124,10 Feb 2024,Ankita Sattva,10 Feb 2024,"1,125.52",61.28,61.28,"1,115.00",152.02,"INR One Thousand, One Hundred And Fifteen Rupees Only",1146860541,kkbk0000725,87.5
+INV-134_Sheetal Kapur.pdf,INV-134,01 Mar 2024,Sheetal Kapur,01 Mar 2024,723.77,65.14,65.14,854.00,44.95,INR Eight Hundred And Fifty,1146860541,kkbk0000725,100.0
+INV-148_harshit rathore.pdf,INV-148,30 Mar 2024,harshit rathore,01 Apr 2024,"1,076.40",36.39,36.39,"1,234.00",168.24,"INR One Thousand, Two Hundred And Thirty",1146860541,kkbk0000725,87.5
+INV-150_Bhusan Naresh.pdf,INV-150,22 Mar 2024,Bhusan Naresh,01 Apr 2024,394.51,35.51,35.51,466.00,63.48,INR Four Hundred And Sixty,1146860541,kkbk0000725,100.0
+INV-146_Abhikaran Jalonha.pdf,INV-146,29 Mar 2024,Abhikaran Jalonha,29 Mar 2024,"3,348.16",74.31,74.31,"3,877.00",674.48,"INR Three Thousand, Eight Hundred And Seventy",1146860541,kkbk0000725,87.5
+INV-127_Avik Mallick.pdf,INV-127,23 Feb 2024,Avik Mallick,23 Feb 2024,943.77,,,944.00,662.23,INR Nine Hundred And Forty,1146860541,kkbk0000725,75.0
+INV-135_Mohith Saragur.pdf,INV-135,01 Mar 2024,Mohith Saragur,01 Mar 2024,691.22,22.19,22.19,793.00,117.28,INR Seven Hundred And Ninety,1146860541,kkbk0000725,100.0
+INV-136_Rishabh Ramola.pdf,INV-136,15 Feb 2024,Rishabh Ramola,04 Mar 2024,961.36,86.52,86.52,"1,134.00",283.60,"INR One Thousand, One Hundred And Thirty",1146860541,kkbk0000725,100.0
+INV-129_Divya Suhane.pdf,INV-129,23 Feb 2024,Divya Suhane,23 Feb 2024,"1,117.05",50.91,50.91,"1,267.00",172.80,"INR One Thousand, Two Hundred And Sixty",1146860541,kkbk0000725,87.5
+INV-117_Naman.pdf,INV-117,01 Feb 2024,Naman,29 Jan 2024,"1,483.32",83.50,83.50,"1,667.00",290.02,"INR One Thousand, Six Hundred And Sixty",1146860541,kkbk0000725,87.5
+INV-118_Rashu.pdf,INV-118,30 Jan 2024,Rashu,30 Jan 2024,350.00,,,350.00,,INR Three Hundred And Fifty Rupees Only,1146860541,kkbk0000725,75.0
+INV-140_Ankit.pdf,INV-140,06 Mar 2024,Ankit,06 Mar 2024,999.36,31.28,31.28,"1,148.00",286.99,"INR One Thousand, One Hundred And Forty",1146860541,kkbk0000725,100.0
+INV-141_Kasturi Kalwar.pdf,INV-141,06 Mar 2024,Kasturi Kalwar,06 Mar 2024,"1,486.02",133.74,133.74,"1,754.00",296.50,"INR One Thousand, Seven Hundred And Fifty",1146860541,kkbk0000725,87.5
